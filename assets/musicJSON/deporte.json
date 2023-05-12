@@ -1,0 +1,27 @@
+[
+     {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"J. Cole",
+        "nombre" : "She Knows",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/jcole_sheknows.mp3",
+        "duracion":408
+    }, 
+    {
+        "id":2,
+        "playlist":"deporte",
+        "artista":"Panic At The Disco",
+        "nombre" :"House Of Memories",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/panicatthedisco_houseofmemories.mp3",
+        "duracion":330
+    }, 
+    {
+        "id":3,
+        "playlist":"deporte",
+        "artista":"Bedroom",
+        "nombre" : "In my Head",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/bedroom_inmyhead.mp3",
+        "duracion":600
+    }
+
+]

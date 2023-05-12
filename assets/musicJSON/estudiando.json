@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiando",
+        "artista":"Catherine Feeny",
+        "nombre" : "Mr Blue",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/catherinefeeny_mrblue.mp3",
+        "duracion":303
+    }, 
+    {
+        "id":2,
+        "playlist":"estudiando",
+        "artista":"Daft Punk",
+        "nombre" : "Get Lucky",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/daftpunk_getlucky.mp3",
+        "duracion":406
+    },
+    {
+        "id":3,
+        "playlist":"estudiando",
+        "artista":"In The Valley Below",
+        "nombre" : "Peaches",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/inthevalleybelow_peaches.mp3",
+        "duracion":447
+    }
+
+]

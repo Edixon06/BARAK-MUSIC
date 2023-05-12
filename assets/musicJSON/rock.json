@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Dan Croll",
+        "nombre" : "Compliment Your Soul",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/dancroll_complimentyoursoul.mp3",
+        "duracion":258
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"The Royal Concept",
+        "nombre" :"Goldrushed",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/theroyalconcept_goldrushed.mp3",
+        "duracion":347
+    }, 
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"Green Day",
+        "nombre" :"Boulevard of Broken Dreams",
+        "url":"https://leonardoapi.onrender.com/assets/music/audio/greenday_boulevardofbrokendreams.mp3",
+        "duracion":422
+    }
+    
+]
